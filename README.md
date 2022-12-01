@@ -2,7 +2,7 @@
 
 ![Screenshot of application](./images/screenshot.PNG)
 
-[Deployed Application](https://dashboard.heroku.com/apps/stark-everglades-82490)
+[Deployed Application](https://stark-everglades-82490.herokuapp.com/)
 
 This app is an installable text editor.
 
